@@ -4,7 +4,7 @@
 
 #### Desenvolvendo com Django e postgres
 
-
+![python e django](python-django.png)
 
 Comandos essenciais utilizados:
 

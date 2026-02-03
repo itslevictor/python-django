@@ -6,8 +6,6 @@ import sys
 
 def main():
     """Run administrative tasks."""
-    # IMPORTANTE: Verifique se o nome aqui é 'setup.settings' 
-    # pois sua pasta de configurações se chama 'setup'
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'setup.settings')
     try:
         from django.core.management import execute_from_command_line
